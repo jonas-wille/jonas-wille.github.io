@@ -22,7 +22,7 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(20,85,35)" id="about">About Me </h2>
 
-I’m Jonas. I Study Computer Science at the Karlsruhe Institute of Technology in Germany.
+Hi, I’m Jonas. I Study Computer Science at the Karlsruhe Institute of Technology in Germany. This is my personal website, there isnt much here yet...
 
 ---
 <h2 class="h1" style="color: rgb(20,85,35)" id="sw">School Work </h2>
