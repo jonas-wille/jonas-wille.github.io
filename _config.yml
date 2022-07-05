@@ -24,11 +24,11 @@ title:                 Jonas Wille
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Personal Website of .
+  Personal Website of Jonas Wille
 
 # A shorter description for the sidebar.
 tagline: |
-  BsC student in Computer Science
+   Student in Computer Science
 
 # A list of keywords for your blog
 keywords:              []
@@ -61,8 +61,6 @@ menu:
 legal:
   - title:             Legal
     url:               /legal
-#   - title:             Cookies Policy
-#     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 #copyright:             © 2020 All rights reserved.
@@ -81,13 +79,12 @@ paginate_path:         /blog/page-:num/
 # Sidebar image and theme color of the site.
 # accent_image:          /assets/img/sidebar-bg.jpg
 accent_image:          none
-accent_color:          rgb(25, 67, 141)
+accent_color:          rgb(20, 85, 35)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(25, 67, 141)
-#theme_color:           rgb(21, 21, 21)
+theme_color:           rgb(20, 85, 35)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>

@@ -1,14 +1,11 @@
 ---
 layout: page
 name: index
-title: Personal Website
+title: Home
 description: >
-  Personal Website of Jonas Wille, a BcS student in Computer Science at the Karlsruhe Insititute of Technology.
+  Personal Website of Jonas Wille, a student in Computer Science at the Karlsruhe Insititute of Technology.
 hide_description: true
 ---
-<!-- <script type="text/javascript">
-	document.getElementsByClassName("page-title")[0].classList.add("sr-only");
-</script> -->
 
 <style type="text/css">
 	.page-title {
@@ -23,21 +20,26 @@ hide_description: true
 	}
 </style>
 
-<h2 class="h1" style="color: rgb(25,67,141)" id="about">About Me </h2>
+<h2 class="h1" style="color: rgb(20,85,35)" id="about">About Me </h2>
 
-TODO
-
-<!-- You can find me on [Instagram](http://instagram.com/abirsaha_){:target="_blank"}. -->
+I’m Jonas. I Study Computer Science at the Karlsruhe Institute of Technology in Germany.
 
 ---
-<h2 class="h1" style="color: rgb(25,67,141)" id="prj">Projects </h2>
+<h2 class="h1" style="color: rgb(20,85,35)" id="sw">School Work </h2>
 
-TODO
+## Bachelors Thesis
 
+* TODO
+
+## Seminars
+
+* [Authentication Methods in Earables](https://jonas-wille.github.io/assets/AuthMethods_cut.pdf)
 ---
-<h2 class="h1" style="color: rgb(25,67,141)" id="sw">School Work </h2>
+<h2 class="h1" style="color: rgb(20,85,35)" id="prj">Projects </h2>
 
 TODO
+
+
 
 <style type="text/css">
   .body-social > ul {
