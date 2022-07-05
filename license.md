@@ -3,17 +3,12 @@ title: Legal
 permalink: /legal
 ---
 
-## Website Content
-
-All rights reserved by Abir Saha. Reproductions without permission are forbidden.
-
----
-
 ## Credits
 
-- This website is hosted on [Github Pages - find the source code here](https://github.com/abirsh/abirsh.github.io){:target="_blank"}.
+- This website is hosted on [Github Pages - find the source code here](https://github.com/jonas-wille/jonas-wille.github.io){:target="_blank"}.
 - The ["Typewriter.js"](https://github.com/tameemsafi/typewriterjs){:target="_blank"} library is licensed under the [MIT License](https://github.com/tameemsafi/typewriterjs/blob/master/LICENSE){:target="_blank"}.
 - This website is powered by the free version of Hydejack, which is licensed under GPLv3 (see below for a verbatim copy). Also see [notice](https://hydejack.com/notice/){:target="_blank"}.
+- More specifically Abir Sahas template was used, all credit goes to him. It can be found [here](https://github.com/abirsh/abirsh.github.io){:target="_blank")
 
 ---
 

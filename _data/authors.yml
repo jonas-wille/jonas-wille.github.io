@@ -3,8 +3,8 @@
 # You can change `author1` to your shortname.
 author1:
   # Replace <...> with your own (remove the < >)
-  name:              Abir Saha
-  # email:             abirsaha056@gmail.com
+  name:              Jonas Wille
+  # email:             jonas.wille@student.kit.edu
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -13,7 +13,7 @@ author1:
 
   # This photo will be used in the about section.
   picture:
-    path:            /assets/img/abir.png
+    path:            /assets/img/pp_small.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
 #     srcset:
 #       1x:            https://placehold.it/128x128
@@ -22,12 +22,11 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    twitter:         abirsaha_
+    # twitter:         abirsaha_
     # instagram:       abiroutdoors
-    googlescholar:       40lh_7kAAAAJ
-    # github:          abirsh
+    # googlescholar:       40lh_7kAAAAJ
+    github:          Joensw
     # download:        <url>
-    # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -55,7 +54,8 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:        abirsaha-
+    linkedin:          jonas-wille
+    email:           jonas.wille@kit.edu
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
