@@ -36,10 +36,6 @@ This is my personal website, there isnt much here yet...
 
 * Seminar: [Authentication Methods in Earables](https://jonas-wille.github.io/assets/AuthMethods_cut.pdf){:target="_blank"}
 
-* Test
-
-* Test 2
----
 <h2 class="h1" style="color: rgb(20,85,35)" id="prj">Projects </h2>
 
 TODO
