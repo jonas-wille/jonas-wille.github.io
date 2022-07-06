@@ -28,13 +28,13 @@ This is my personal website, there isnt much here yet...
 ---
 <h2 class="h1" style="color: rgb(20,85,35)" id="sw">School Work </h2>
 
-## Bachelors Thesis
+<h3 class="h2">Bachelors Thesis</h3>
 
 * TODO
 
-## Seminars
+<h3 class="h2">Other smaller things</h3>
 
-* [Authentication Methods in Earables](https://jonas-wille.github.io/assets/AuthMethods_cut.pdf)
+* Seminar: [Authentication Methods in Earables](https://jonas-wille.github.io/assets/AuthMethods_cut.pdf)
 ---
 <h2 class="h1" style="color: rgb(20,85,35)" id="prj">Projects </h2>
 
