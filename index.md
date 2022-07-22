@@ -40,9 +40,9 @@ This is my personal website, there isnt much here yet...
 
 <h3 class="h2">Rapid Classification AI Trainer (RCAIT)</h3>
 
-* Extensible plugin based application to faciliate the process of training and using image classification models
-* Developed in a Team of 5 as part of project at KIT for the Fraunhofer IOSB
+* Extensible plugin based application to facilitate the process of training and using image classification models
+* Developed in a Team of 5 as part of a school project at KIT for the Fraunhofer IOSB
 * Written in Qt(C++) and Python
 * [Demo](https://youtu.be/EpFT-wCT7l8)
-TODO
+
 
