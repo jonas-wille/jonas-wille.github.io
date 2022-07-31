@@ -4,7 +4,7 @@
 author1:
   # Replace <...> with your own (remove the < >)
   name:              Jonas Wille
-  # email:             jonas.wille@student.kit.edu
+  # email:             jonas.wille@pm.me
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -22,9 +22,9 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    # twitter:         abirsaha_
-    # instagram:       abiroutdoors
-    # googlescholar:       40lh_7kAAAAJ
+    # twitter:         <username>
+    # instagram:       <username>
+    # googlescholar:   <username>
     github:          Joensw
     # download:        <url>
     # rss:             https://<url>/feed.xml
@@ -55,7 +55,7 @@ author1:
     # hackernews:      <username>
     # trello:          <firstnamelastname>
     linkedin:          jonas-wille
-    email:             jonas.wille@kit.edu
+    email:             jonas.wille@pm.me
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
