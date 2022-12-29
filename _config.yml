@@ -55,6 +55,10 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+atom_feed:
+  hide: true
+
+
 author:
   name   : "Jonas Wille"
   avatar : "/assets/images/pp_small.png"
