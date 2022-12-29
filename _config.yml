@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A simple personal webpage.
 title_separator: "|"
 github_username: Joensw
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: neon
 search: true
 
 # Build settings
