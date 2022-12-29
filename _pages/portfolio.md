@@ -5,7 +5,7 @@ permalink: /projects/
 collection: portfolio
 entries_layout: grid
 classes: wide
-author_profile: false
+author_profile: true
 ---
 
 Sample project portfolio.
