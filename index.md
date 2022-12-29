@@ -7,6 +7,8 @@ author_profile: true
 Hi, I’m Jonas. I Study Computer Science at the Karlsruhe Institute of Technology in Germany.\
 This is my personal website, there isnt much here yet...
 
+---
+
 ## School Work
 
 ### Thesis: Implementation And Formal Verification Of Data Strucutres In Solidity
@@ -14,6 +16,8 @@ This is my personal website, there isnt much here yet...
 Is a work in progress, the GitHub repo can be found [here](https://github.com/Joensw/solidity-formal-specification).
 
 ### Proseminar: [Authentication Methods in Earables](/assets/sw/AuthMethods_web.pdf)
+
+---
 
 ## Projects
 
