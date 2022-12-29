@@ -7,7 +7,7 @@ author_profile: true
 Hi, I’m Jonas. I Study Computer Science at the Karlsruhe Institute of Technology in Germany.\
 This is my personal website, there isnt much here yet...
 
----
+
 
 ## School Work
 
@@ -17,7 +17,7 @@ Is a work in progress, the GitHub repo can be found [here](https://github.com/Jo
 
 ### Proseminar: [Authentication Methods in Earables](/assets/sw/AuthMethods_web.pdf)
 
----
+
 
 ## Projects
 
