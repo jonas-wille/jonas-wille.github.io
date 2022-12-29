@@ -16,9 +16,9 @@ This is my personal website, there isnt much here yet...
 
 Is a work in progress, the GitHub repo can be found [here](https://github.com/Joensw/solidity-formal-specification).
 
-### Proseminar: [Authentication Methods in Earables](/assets/sw/AuthMethods_web.pdf)
+### Proseminar: Authentication Methods in Earables
 
-
+The paper can be found [here](/assets/sw/AuthMethods_web.pdf).
 
 ## Projects
 
