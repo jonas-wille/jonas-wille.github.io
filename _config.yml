@@ -63,6 +63,7 @@ author:
   name   : "Jonas Wille"
   avatar : "/assets/images/pp_small.png"
   bio    : "Computer Science Student"
+  location: "Germany"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
