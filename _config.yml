@@ -64,8 +64,10 @@ author:
   avatar : "/assets/images/pp_small.png"
   bio    : "Computer Science Student"
   location: "Germany"
-  email: "jonas.wille@pm.me"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jonas.wille@pm.me"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Joensw"
