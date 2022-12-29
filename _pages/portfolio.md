@@ -7,4 +7,4 @@ entries_layout: grid
 author_profile: true
 ---
 
-Sample project portfolio.
+A collection of my projects
