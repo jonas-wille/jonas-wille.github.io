@@ -20,7 +20,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: Joensw
 minimal_mistakes_skin: dark
 search: true
-logo: "/assets/images/logo.png"
 
 # Build settings
 markdown: kramdown
