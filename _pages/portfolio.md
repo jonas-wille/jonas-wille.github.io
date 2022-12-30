@@ -7,4 +7,4 @@ entries_layout: grid
 author_profile: true
 ---
 
-A collection of my projects
+A collection of some of my school / personal projects.
