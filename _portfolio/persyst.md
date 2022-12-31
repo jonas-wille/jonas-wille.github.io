@@ -3,6 +3,7 @@ title: "persyst"
 excerpt: "Program to save data persistently in the form of YouTube videos"
 header:
     teaser: /assets/images/persyst.svg
+classes: wide
 ---
 
 A Python program to turn any file into an MP4 and back, by storing bytes as colour blocks.
