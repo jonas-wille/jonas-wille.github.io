@@ -3,6 +3,7 @@ title: "RCAIT"
 excerpt: "Modular application to facilitate the process of training and using image classification models"
 header:
     teaser: /assets/images/RCAIT.svg
+classes: wide
 ---
 
 A collaborative project that was developed by a team of 5 students at KIT for the Fraunhofer IOSB as part of the course PSE (Praxis der Software Entwicklung / Software Engineering in Practice).\
