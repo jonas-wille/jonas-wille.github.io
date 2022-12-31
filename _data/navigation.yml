@@ -1,5 +1,7 @@
 main:
   - title: "About"
     url: /
+  - title: "Projects"
+    url: /projects/    
   - title: "Resume"
     url: /assets/files/resume.txt
