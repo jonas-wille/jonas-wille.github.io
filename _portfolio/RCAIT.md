@@ -16,5 +16,8 @@ To train Deep learning-based models, much training data is needed. Collecting an
 The outcome besides many documents and presentations was an extensible plugin-based application that supported several plugins to construct labelled data sets and an image classification plugin based on MMClassification to train, classify and validate models.  This was all tied together in a sleek UI which also included further functionality to evaluate and compare results graphically as well as saving and loading projects from persistent storage.
 \
 \
-Unfortunately, the source code is not publicly available, however there is a demo video: [here](https://www.youtube.com/watch?v=EpFT-wCT7l8).
+Unfortunately, the source code is not publicly available, however there is a demo video below.
+
 {% include video id="EpFT-wCT7l8" provider="youtube" %}
+
+(Note some of the animations and borders look crude as the program was executed on a remote machine through a VNC viewer and therefore these couldn't be displayed properly)
