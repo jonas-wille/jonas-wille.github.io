@@ -2,7 +2,6 @@
 title: "About"
 layout: single
 author_profile: true
-classes: wide
 ---
 
 Hi, I’m Jonas. I study Computer Science at the Karlsruhe Institute of Technology.\
