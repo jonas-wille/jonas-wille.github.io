@@ -1,5 +1,19 @@
 <!-- start custom head snippets -->
 
+<script type="text/javascript">
+    document.getElementsByClassName("author__bio p-note")[0].innerHTML = "<span class='sr-only'>Computer Science Student</span><span id='tag' aria-hidden='true'></span>";
+    document.getElementsByClassName("author__bio p-note")[0].style.fontSize = "0.83rem";
+    var typewriter = new Typewriter(tag, {
+      loop: false,
+      delay: 55,
+      deleteSpeed: 1
+    });
+    typewriter.pauseFor(2000)
+    .typeString('Computer Science Student')
+    .pauseFor(6000)
+    .start();
+</script>
+
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 
 
