@@ -3,6 +3,7 @@ title: "Thesis"
 excerpt: "Implementation and formal verification of Solidity Data Structures"
 header:
     teaser: /assets/images/Thesis.svg
+classes: wide
 ---
 My Bachelor's thesis focused on the implementation of novel data structures in Solidity and then using formal verification to prove their correctness.
 
