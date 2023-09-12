@@ -18,4 +18,4 @@ The goal was to address both aspects by supplying basic Solidity constructs that
 
 The implementations can be found [here](https://github.com/Joensw/solidity-formal-specification).
 \
-The Pdf can be found [here](https://jonas-wille.github.io/assets/files/Thesis_Jonas_Wille.pdf).
+The Pdf can be found [here](https://jonas-wille.github.io/assets/files/Thesis.pdf).
