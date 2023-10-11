@@ -2,7 +2,7 @@
 title: "This is a test"
 excerpt: "testtestest"
 header:
-    teaser: /assets/images/Picture1.svg
+    teaser: /assets/images/RCAIT-new.svg
 classes: wide
 ---
 
