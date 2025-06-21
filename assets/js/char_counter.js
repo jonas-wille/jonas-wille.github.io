@@ -5,6 +5,6 @@ document.addEventListener("DOMContentLoaded", () => {
   if (!textarea || !counter) return;
 
   textarea.addEventListener("input", () => {
-    counter.textContent = `Characters typed: ${textarea.value.length}`;
+    counter.textContent = `characters: ${textarea.value.length}`;
   });
 });
