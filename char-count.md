@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Character Counter
+title: character counter
 custom_js: char_counter
 ---
 
 <label for="message">your text:</label>
 <textarea id="message" rows="5" cols="30"></textarea>
-<p id="charCount">character count: 0</p>
+<p id="charCount">characters: 0</p>
