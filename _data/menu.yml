@@ -1,5 +1,5 @@
 entries:
-  - title: <a href='https://www.linkedin.com/in/jonas-wille/'>linkedin</a> | <a href='https://github.com/Joensw'>github</a> | <a href='mailto:jonas.wille@proton.me'>email</a>"
+  - title: "<a href='https://www.linkedin.com/in/jonas-wille/'><i class='fab fa-fw fa-linkedin'></i> LinkedIn</a> <a href='https://github.com/Joensw'><i class='fab fa-fw fa-github'></i> GitHub</a> <a href='mailto:your.email@example.com'><i class='fas fa-fw fa-envelope'></i> Email</a>"
 
   # - title: all posts
   #   post_list:
