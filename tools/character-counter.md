@@ -1,8 +1,9 @@
 ---
 layout: page
 title: character counter
-custom_js: char_counter
+custom_js: character-counter
 back_url: /tools
+permalink: /character-counter/
 ---
 
 <label for="message">your text:</label>
